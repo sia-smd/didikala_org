@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj": {}
+    "c:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj": {
+    "c:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj",
+        "projectUniqueName": "c:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj",
         "projectName": "didikala_org",
-        "projectPath": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj",
+        "projectPath": "c:\\Users\\MY ASUS\\Desktop\\didikala_org\\didikala_org.csproj",
         "packagesPath": "C:\\Users\\MY ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\",
+        "outputPath": "c:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
