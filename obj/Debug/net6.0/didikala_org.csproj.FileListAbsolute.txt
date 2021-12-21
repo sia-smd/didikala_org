@@ -24,3 +24,11 @@ C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\didikala_org.dll
 C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\ref\didikala_org.dll
 C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\didikala_org.pdb
 C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\didikala_org.genruntimeconfig.cache
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\Dapper.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\didikala_org.csproj.CopyComplete

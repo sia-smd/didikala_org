@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using didikala_org.Models;
+using Product;
 
 namespace didikala_org.Controllers;
 
@@ -15,6 +16,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.pr=Db_Product.Select();
         return View();
     }
     public IActionResult Login()
@@ -25,7 +27,7 @@ public class HomeController : Controller
     {
         return View();
     }
-    
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
