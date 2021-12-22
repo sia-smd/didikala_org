@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RBUW3cefPgAKmpbu+364xJTJpe3F73nhHQgC+eq1Trc=",
+  "Hash": "sgjAQ6SGyTNMn7D4uYZ0qNiMihdp2qwS3Pq54hlbhuM=",
   "Source": "didikala_org",
   "BasePath": "_content/didikala_org",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "didikala_org\\wwwroot",
       "Source": "didikala_org",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\didikala_org.styles.css",
+      "Identity": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\didikala_org.styles.css",
       "SourceId": "didikala_org",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "didikala_org.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\didikala_org.styles.css"
+      "OriginalItemSpec": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\bundle\\didikala_org.styles.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\didikala_org.bundle.scp.css",
+      "Identity": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\didikala_org.bundle.scp.css",
       "SourceId": "didikala_org",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "didikala_org.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\didikala_org.bundle.scp.css"
+      "OriginalItemSpec": "D:\\work\\didikala_org\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\didikala_org.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\amber-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\amber-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/amber-color.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\amber-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\blue-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\blue-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/blue-color.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\blue-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\blue-grey-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\blue-grey-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/blue-grey-color.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\blue-grey-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\brown-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\brown-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/brown-color.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\brown-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\cyan-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\cyan-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/cyan-color.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\cyan-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\default.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\default.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/default.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\default.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\green-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\green-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/green-color.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\green-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\indigo-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\indigo-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/indigo-color.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\indigo-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\lime-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\lime-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/lime-color.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\lime-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\orange-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\orange-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/orange-color.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\orange-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\purple-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\purple-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/purple-color.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\purple-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\red-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\red-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/red-color.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\red-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\colors\\teal-color.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\colors\\teal-color.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/colors/teal-color.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\colors\\teal-color.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\main.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\main.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\bootstrap-slider.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\bootstrap-slider.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/bootstrap-slider.min.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\bootstrap-slider.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\bootstrap.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\bootstrap.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/bootstrap.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\fancybox.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\fancybox.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/fancybox.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\fancybox.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\font-awesome.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\font-awesome.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/font-awesome.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\jquery.horizontalmenu.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\jquery.horizontalmenu.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/jquery.horizontalmenu.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\jquery.horizontalmenu.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\jquery.toast.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\jquery.toast.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/jquery.toast.min.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\jquery.toast.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\materialdesignicons.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\materialdesignicons.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/materialdesignicons.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\materialdesignicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\nice-select.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\nice-select.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/nice-select.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\nouislider.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\nouislider.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/nouislider.min.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\nouislider.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\css\\vendor\\owl.carousel.min.css",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\css\\vendor\\owl.carousel.min.css",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "css/vendor/owl.carousel.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-brands-400.eot",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-brands-400.svg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-brands-400.woff",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-brands-400.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-duotone-900.eot",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-duotone-900.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-duotone-900.svg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-duotone-900.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-duotone-900.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-duotone-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-duotone-900.woff",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-duotone-900.woff2",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-duotone-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-light-300.eot",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-light-300.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-light-300.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-light-300.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-light-300.ttf",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-light-300.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-light-300.woff",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-light-300.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-light-300.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-light-300.woff2",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-light-300.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-regular-400.eot",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-regular-400.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-regular-400.woff",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-regular-400.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-solid-900.eot",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-solid-900.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-solid-900.woff",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\font-awesome\\fa-solid-900.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/font-awesome/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\font-awesome\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/icons/materialdesignicons-webfont.eot",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icons\\materialdesignicons-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/icons/materialdesignicons-webfont.ttf",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icons\\materialdesignicons-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/icons/materialdesignicons-webfont.woff",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/icons/materialdesignicons-webfont.woff2",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icons\\materialdesignicons-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Bold.eot",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Bold.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Bold.ttf",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Bold.woff",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Bold.woff2",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Bold.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Light.eot",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Light.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Light.ttf",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Light.woff",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Light.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Light.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Light.woff2",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Light.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Medium.eot",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Medium.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Medium.ttf",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Medium.woff",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Medium.woff2",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Medium.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Thin.eot",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Thin.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Thin.ttf",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Thin.woff",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam-Thin.woff2",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam-Thin.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.eot",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.eot",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam.eot",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam.eot"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.ttf",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.ttf",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam.ttf",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam.ttf"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.woff",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.woff",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam.woff",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam.woff"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.woff2",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\fonts\\shabnam\\Shabnam.woff2",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "fonts/shabnam/Shabnam.woff2",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\shabnam\\Shabnam.woff2"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\banner-side-slider-1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\banner-side-slider-1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/banner-side-slider-1.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-side-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\banner-side-slider-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\banner-side-slider-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/banner-side-slider-2.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\banner-side-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\large-ads.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\large-ads.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/large-ads.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\large-ads.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\large-banner.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\large-banner.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/large-banner.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\large-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\medium-banner-1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\medium-banner-1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/medium-banner-1.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\medium-banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\medium-banner-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\medium-banner-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/medium-banner-2.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\medium-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-1.gif",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-1.gif",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/sidebar-banner-1.gif",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\sidebar-banner-1.gif"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/sidebar-banner-2.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\sidebar-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\sidebar-banner-3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/sidebar-banner-3.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\sidebar-banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-1.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-2.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-3.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-4.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-4.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-4.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-5.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-5.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-5.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-6.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-6.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-6.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-7.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-7.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-7.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\banner\\small-banner-8.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\banner\\small-banner-8.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/banner/small-banner-8.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\small-banner-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1000006973.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1000006973.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1000006973.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1000006973.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1000014452.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1000014452.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1000014452.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1000014452.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1076.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1076.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1076.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1076.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1078.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1078.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1078.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1078.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1080.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1080.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1080.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1080.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\1086.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\1086.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/1086.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\1086.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\2315.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\2315.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/2315.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\2315.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\5189.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\5189.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/5189.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\5189.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\apple-logo_318-40184.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\apple-logo_318-40184.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/apple-logo_318-40184.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\apple-logo_318-40184.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\brand\\Lenovo-Symbol.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\brand\\Lenovo-Symbol.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/brand/Lenovo-Symbol.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\brand\\Lenovo-Symbol.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\01.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\01.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/01.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\01.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\02.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\02.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/02.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\02.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\03.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\03.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/03.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\03.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\04.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\04.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/04.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\04.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/1.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/2.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\cart\\3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\cart\\3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/cart/3.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cart\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\adventurer.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\adventurer.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/adventurer.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\adventurer.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\baby-girl.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\baby-girl.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/baby-girl.png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\baby-girl.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\hanbok.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\hanbok.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/hanbok.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\hanbok.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\lifeline-in-a-heart-outline.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\lifeline-in-a-heart-outline.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/lifeline-in-a-heart-outline.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\lifeline-in-a-heart-outline.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\notebook-computer.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\notebook-computer.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/notebook-computer.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\notebook-computer.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\repair-tools.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\repair-tools.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/repair-tools.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\repair-tools.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.png",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\school-material.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\school-material.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/school-material.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\school-material.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\category\\sofa.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\category\\sofa.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/category/sofa.png",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\category\\sofa.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\1.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\1.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/1.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\1.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\10.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\10.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/10.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\10.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\11.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\11.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/11.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\11.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\2.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\2.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/2.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\2.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\3.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\3.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/3.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\3.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\4.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\4.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/4.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\4.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\5.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\5.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/5.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\5.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\6.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\6.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/6.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\6.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\7.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\7.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/7.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\7.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\8.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\8.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/8.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\8.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\9.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\9.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/9.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\9.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\email.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\email.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/email.svg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\email.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\phone.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\phone.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/phone.svg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\phone.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\question.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\question.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/question.svg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\question.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\question\\1.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\question\\1.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/question/1.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\question\\1.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\question\\2.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\question\\2.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/question/2.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\question\\2.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\question\\3.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\question\\3.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/question/3.png",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\question\\3.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\faq\\question\\4.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\faq\\question\\4.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/faq/question/4.png",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\img\\faq\\question\\4.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\logo.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\logo.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/1.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/2.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/3.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\4.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\4.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/4.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\5.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\5.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/5.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\6.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\6.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/6.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\7.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\7.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/7.jpg",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/1.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/2.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/3.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\4.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\4.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/4.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\5.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\5.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/5.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\6.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\6.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/6.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\7.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\7.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/7.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\8.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\8.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/8.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\9.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\img-slider-2\\9.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/img-slider-2/9.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\img-slider-2\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/1.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/2.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/3.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\4.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\4.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/4.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\5.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\5.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/5.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\6.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\6.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/6.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\7.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\main-slider\\slider-responsive\\7.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/main-slider/slider-responsive/7.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main-slider\\slider-responsive\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\mega-menu\\01.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\mega-menu\\01.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/mega-menu/01.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mega-menu\\01.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\mega-menu\\amazing-offer.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\mega-menu\\amazing-offer.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/mega-menu/amazing-offer.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mega-menu\\amazing-offer.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\mega-menu\\brand-1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\mega-menu\\brand-1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/mega-menu/brand-1.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mega-menu\\brand-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\mega-menu\\brand-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\mega-menu\\brand-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/mega-menu/brand-2.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mega-menu\\brand-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\mega-menu\\brand-3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\mega-menu\\brand-3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/mega-menu/brand-3.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mega-menu\\brand-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\1.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\1.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/1.png",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\1.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\2.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\2.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/2.png",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\2.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\291.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\291.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/291.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\291.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\3.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\3.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/3.png",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\3.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\4.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\4.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/4.png",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\4.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\post-thumbnail\\5.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\post-thumbnail\\5.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/post-thumbnail/5.png",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\img\\post-thumbnail\\5.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\01.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\01.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/01.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\01.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\010.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\010.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/010.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\010.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\011.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\011.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/011.jpg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\011.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\012.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\012.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/012.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\012.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\013.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\013.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/013.jpg",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\013.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\014.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\014.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/014.jpg",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\014.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\015.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\015.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/015.jpg",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\015.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\016.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\016.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/016.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\016.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\017.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\017.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/017.jpg",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\017.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\018.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\018.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/018.jpg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\018.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\019.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\019.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/019.jpg",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\019.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\02.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\02.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/02.jpg",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\02.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\020.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\020.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/020.jpg",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\020.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\021.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\021.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/021.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\021.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\022.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\022.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/022.jpg",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\022.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\023.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\023.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/023.jpg",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\023.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\026.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\026.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/026.jpg",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\026.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\027.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\027.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/027.jpg",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\027.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\028.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\028.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/028.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\028.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\029.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\029.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/029.jpg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\029.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\03.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\03.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/03.jpg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\03.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\04.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\04.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/04.jpg",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\04.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\05.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\05.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/05.jpg",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\05.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\06.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\06.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/06.jpg",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\06.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\07.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\07.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/07.jpg",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\07.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\08.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\08.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/08.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\08.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\09.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\09.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/09.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\09.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/1.jpg",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/2.jpg",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\products\\3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\products\\3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/products/3.jpg",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\img\\products\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1398679.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1398679.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1398679.jpg",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1398679.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1406339.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1406339.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1406339.jpg",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1406339.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1406986.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1406986.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1406986.jpg",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1406986.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1418947.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1418947.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1418947.jpg",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1418947.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1429172.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1429172.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1429172.jpg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1429172.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1431842.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1431842.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1431842.jpg",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1431842.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1436228.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1436228.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1436228.jpg",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1436228.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1439653.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1439653.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1439653.jpg",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1439653.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\1441226.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\1441226.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/1441226.jpg",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\1441226.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\single-product-comment-thumbnail.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\single-product-comment-thumbnail.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/single-product-comment-thumbnail.jpg",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\single-product-comment-thumbnail.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-1.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-1.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-1.jpg",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-2.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-2.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-2.jpg",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-3.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-3.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-3.jpg",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-4.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-4.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-4.jpg",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-5.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-5.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-5.jpg",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-6.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\single-product\\thumbnail-6.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/single-product/thumbnail-6.jpg",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\img\\single-product\\thumbnail-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\07a0808a.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\07a0808a.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/07a0808a.svg",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\07a0808a.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\0eab59b0.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\0eab59b0.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/0eab59b0.svg",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\0eab59b0.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\332b9ff1.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\332b9ff1.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/332b9ff1.svg",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\332b9ff1.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\3db3cdeb.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\3db3cdeb.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/3db3cdeb.svg",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\3db3cdeb.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\50450a73.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\50450a73.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/50450a73.svg",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\50450a73.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\701f8a6b.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\701f8a6b.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/701f8a6b.svg",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\701f8a6b.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\9284f8d1.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\9284f8d1.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/9284f8d1.svg",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\9284f8d1.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-1.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-1.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-1.svg",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-1.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-2.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-2.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-2.svg",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-2.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-3.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-3.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-3.svg",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-3.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-4.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-4.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-4.svg",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-4.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-5.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-5.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-5.svg",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-5.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-6.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-6.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-6.svg",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-6.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\avatar-7.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\avatar-7.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/avatar-7.svg",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\avatar-7.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\contact-us.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\contact-us.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/contact-us.svg",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\contact-us.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\d5d5e1d2.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\d5d5e1d2.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/d5d5e1d2.svg",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\d5d5e1d2.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\d86ea8ec.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\d86ea8ec.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/d86ea8ec.svg",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\d86ea8ec.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\dbab74ce.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\dbab74ce.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/dbab74ce.svg",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\dbab74ce.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\delivery.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\delivery.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/delivery.svg",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\delivery.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\origin-guarantee.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\origin-guarantee.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/origin-guarantee.svg",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\origin-guarantee.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\payment-terms.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\payment-terms.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/payment-terms.svg",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\payment-terms.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\return-policy.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\return-policy.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/return-policy.svg",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\return-policy.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\up.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\up.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/up.svg",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\up.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\svg\\user.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\svg\\user.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/svg/user.svg",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\img\\svg\\user.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\symbol-01.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\symbol-01.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/symbol-01.png",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\symbol-01.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\symbol-02.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\symbol-02.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/symbol-02.png",
       "AssetKind": "All",
@@ -4148,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\img\\symbol-02.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\404.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\404.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/404.png",
       "AssetKind": "All",
@@ -4165,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\404.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\404.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\404.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/404.svg",
       "AssetKind": "All",
@@ -4182,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\404.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\ah-tab-overflow-menu.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\ah-tab-overflow-menu.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/ah-tab-overflow-menu.svg",
       "AssetKind": "All",
@@ -4199,10 +4199,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\ah-tab-overflow-menu.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\ajax-loader.gif",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\ajax-loader.gif",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/ajax-loader.gif",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\amazing-1.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\amazing-1.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/amazing-1.png",
       "AssetKind": "All",
@@ -4233,10 +4233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\amazing-1.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\amazing-title-mb.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\amazing-title-mb.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/amazing-title-mb.png",
       "AssetKind": "All",
@@ -4250,10 +4250,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\amazing-title-mb.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\amazing.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\amazing.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/amazing.svg",
       "AssetKind": "All",
@@ -4267,10 +4267,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\amazing.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\avatar.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\avatar.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/avatar.png",
       "AssetKind": "All",
@@ -4284,10 +4284,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\avatar.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\down.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\down.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/down.svg",
       "AssetKind": "All",
@@ -4301,10 +4301,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\down.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\mega-menu.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\mega-menu.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/mega-menu.jpg",
       "AssetKind": "All",
@@ -4318,10 +4318,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\mega-menu.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\page-cover-faq.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\page-cover-faq.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/page-cover-faq.jpg",
       "AssetKind": "All",
@@ -4335,10 +4335,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\page-cover-faq.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\page-cover.jpg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\page-cover.jpg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/page-cover.jpg",
       "AssetKind": "All",
@@ -4352,10 +4352,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\page-cover.jpg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\search.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\search.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/search.png",
       "AssetKind": "All",
@@ -4369,10 +4369,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\search.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\shopping-cart.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\shopping-cart.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/shopping-cart.png",
       "AssetKind": "All",
@@ -4386,10 +4386,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\shopping-cart.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\star-empty.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\star-empty.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/star-empty.svg",
       "AssetKind": "All",
@@ -4403,10 +4403,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\star-empty.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\star.svg",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\star.svg",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/star.svg",
       "AssetKind": "All",
@@ -4420,10 +4420,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\star.svg"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\suggestion-title.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\suggestion-title.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/suggestion-title.png",
       "AssetKind": "All",
@@ -4437,10 +4437,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\suggestion-title.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\img\\theme\\title-circles.png",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\img\\theme\\title-circles.png",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "img/theme/title-circles.png",
       "AssetKind": "All",
@@ -4454,10 +4454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\theme\\title-circles.png"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\main.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\main.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -4471,10 +4471,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\bootstrap-slider.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\bootstrap-slider.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/bootstrap-slider.min.js",
       "AssetKind": "All",
@@ -4488,10 +4488,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap-slider.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\bootstrap.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/bootstrap.min.js",
       "AssetKind": "All",
@@ -4505,10 +4505,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\countdown.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\countdown.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/countdown.min.js",
       "AssetKind": "All",
@@ -4522,10 +4522,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\countdown.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\headroom.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\headroom.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/headroom.min.js",
       "AssetKind": "All",
@@ -4539,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\headroom.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jquery-3.4.1.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jquery-3.4.1.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -4556,10 +4556,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jquery.fancybox.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jquery.fancybox.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jquery.fancybox.min.js",
       "AssetKind": "All",
@@ -4573,10 +4573,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery.fancybox.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jQuery.headroom.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jQuery.headroom.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jQuery.headroom.js",
       "AssetKind": "All",
@@ -4590,10 +4590,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jQuery.headroom.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jquery.horizontalmenu.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jquery.horizontalmenu.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jquery.horizontalmenu.js",
       "AssetKind": "All",
@@ -4607,10 +4607,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery.horizontalmenu.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jquery.nice-select.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jquery.nice-select.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -4624,10 +4624,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery.nice-select.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\jquery.nicescroll.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\jquery.nicescroll.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/jquery.nicescroll.min.js",
       "AssetKind": "All",
@@ -4641,10 +4641,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery.nicescroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\nouislider.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\nouislider.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/nouislider.min.js",
       "AssetKind": "All",
@@ -4658,10 +4658,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\nouislider.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\owl.carousel.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\owl.carousel.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/owl.carousel.min.js",
       "AssetKind": "All",
@@ -4675,10 +4675,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\popper.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\popper.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/popper.min.js",
       "AssetKind": "All",
@@ -4692,10 +4692,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\ResizeSensor.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\ResizeSensor.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/ResizeSensor.min.js",
       "AssetKind": "All",
@@ -4709,10 +4709,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\ResizeSensor.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\theia-sticky-sidebar.min.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\theia-sticky-sidebar.min.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/theia-sticky-sidebar.min.js",
       "AssetKind": "All",
@@ -4726,10 +4726,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\theia-sticky-sidebar.min.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\js\\vendor\\wNumb.js",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\js\\vendor\\wNumb.js",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "js/vendor/wNumb.js",
       "AssetKind": "All",
@@ -4743,10 +4743,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\wNumb.js"
     },
     {
-      "Identity": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\video\\download.mp4",
+      "Identity": "D:\\work\\didikala_org\\wwwroot\\video\\download.mp4",
       "SourceId": "didikala_org",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MY ASUS\\Desktop\\didikala_org\\wwwroot\\",
+      "ContentRoot": "d:\\work\\didikala_org\\wwwroot\\",
       "BasePath": "_content/didikala_org",
       "RelativePath": "video/download.mp4",
       "AssetKind": "All",

@@ -7,12 +7,12 @@ namespace Product
 {
     public class Db_Product
     {
-        static string a = "Data Source =.; Initial Catalog = Didikala; Integrated Security = True";
+        static string a = "Data Source =.; Initial Catalog = Digikala; Integrated Security = True";
         public static List<VM_Product> Select()
         {
             using (SqlConnection db = new SqlConnection(a))
             {
-                var list = db.Query<VM_Product>("Select * from product where active = 1").ToList();
+                var list = db.Query<VM_Product>("SELECT p.Productid,p.Product_name,p.Price,p.Count,p.Product_desc,p.Img_url,p.Categoryid,p.Active,c.Category_name FROM Product p INNER JOIN Category c ON c.Categoryid = p.Categoryid").ToList();
                 return list;
             }
         }
@@ -27,5 +27,6 @@ namespace Product
         public string Img_url { get; set; }
         public int Categoryid { get; set; }
         public int Active { get; set; }
+        public string Category_name { get; set; }
     }
 }

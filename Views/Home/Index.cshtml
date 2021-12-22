@@ -121,7 +121,7 @@
 
         <!-- Start Product-Slider -->
         <div class="row">
-            <div class="col-xl-10 col-lg-12">
+            <div class="col-xl-12 col-lg-12">
                 <section class="slider-section dt-sl mb-5">
                     <div class="row mb-3">
                         <div class="col-12">
@@ -132,41 +132,38 @@
                         </div>
 
                         <!-- Start Product-Slider -->
-                        <div class="col-12 px-res-0">
-                            <div class="product-carousel carousel-md owl-carousel owl-theme">
-                                <div class="item">
+                        <div class="row col-12 px-res-0">
+                            <div class="product-carousel carousel-md owl-carousel owl-theme"></div>
+                            @foreach (var item in ViewBag.pr)
+                            {
+                                <div class="item col-3">
                                     <div class="product-card">
-                                        @foreach (var item in ViewBag.pr)
-                                        {
-                                            <div class="product-head">
-                                                <div class="rating-stars">
-                                                    <i class="mdi mdi-star active"></i>
-                                                    <i class="mdi mdi-star active"></i>
-                                                    <i class="mdi mdi-star active"></i>
-                                                    <i class="mdi mdi-star active"></i>
-                                                    <i class="mdi mdi-star active"></i>
-                                                </div>
-                                                <div class="discount">
-                                                    <span>20%</span>
-                                                </div>
+                                        <div class="product-head">
+                                            <div class="rating-stars">
+                                                <i class="mdi mdi-star active"></i>
+                                                <i class="mdi mdi-star active"></i>
+                                                <i class="mdi mdi-star active"></i>
+                                                <i class="mdi mdi-star active"></i>
+                                                <i class="mdi mdi-star active"></i>
                                             </div>
-                                            <a class="product-thumb" href="shop-single.html">
-                                                <img src="@item.Img_url" alt="Product Thumbnail">
-                                            </a>
-                                            <div class="product-card-body">
-                                                <h5 class="product-title">
-                                                    <a href="shop-single.html">@item.Product_name</a>
-                                                </h5>
-                                                <a class="product-meta" href="shop-categories.html">لباس زنانه</a>
-                                                <span class="product-price">@item.Price</span>
-                                            </div>
-                                        }
+                                        </div>
+                                        <a class="product-thumb" href="shop-single.html">
+                                            <img src="@item.Img_url" alt="Product Thumbnail">
+                                        </a>
+                                        <div class="product-card-body">
+                                            <h5 class="product-title">
+                                                <a href="shop-single.html">@item.Product_name</a>
+                                            </h5>
+                                            <a class="product-meta" href="#">@item.Category_name</a>
+                                            <span class="product-price">@item.Price</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
+                            }
                         </div>
-                        <!-- End Product-Slider -->
                     </div>
-                </section>
+                    <!-- End Product-Slider -->
             </div>
+            </section>
         </div>
+    </div>

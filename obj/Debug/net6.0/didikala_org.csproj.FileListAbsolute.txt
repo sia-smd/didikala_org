@@ -32,3 +32,37 @@ C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win-x86\native\s
 C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\MY ASUS\Desktop\didikala_org\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\MY ASUS\Desktop\didikala_org\obj\Debug\net6.0\didikala_org.csproj.CopyComplete
+D:\work\didikala_org\bin\Debug\net6.0\appsettings.Development.json
+D:\work\didikala_org\bin\Debug\net6.0\appsettings.json
+D:\work\didikala_org\bin\Debug\net6.0\didikala_org.staticwebassets.runtime.json
+D:\work\didikala_org\bin\Debug\net6.0\didikala_org.exe
+d:\work\didikala_org\bin\Debug\net6.0\didikala_org.deps.json
+d:\work\didikala_org\bin\Debug\net6.0\didikala_org.runtimeconfig.json
+D:\work\didikala_org\bin\Debug\net6.0\didikala_org.dll
+d:\work\didikala_org\bin\Debug\net6.0\ref\didikala_org.dll
+D:\work\didikala_org\bin\Debug\net6.0\didikala_org.pdb
+D:\work\didikala_org\bin\Debug\net6.0\Dapper.dll
+D:\work\didikala_org\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\work\didikala_org\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\work\didikala_org\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\work\didikala_org\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\work\didikala_org\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\didikala_org\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.csproj.AssemblyReference.cache
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.AssemblyInfoInputs.cache
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.AssemblyInfo.cs
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.csproj.CoreCompileInputs.cache
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.MvcApplicationPartsAssemblyInfo.cache
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.RazorAssemblyInfo.cache
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.RazorAssemblyInfo.cs
+d:\work\didikala_org\obj\Debug\net6.0\staticwebassets.build.json
+d:\work\didikala_org\obj\Debug\net6.0\staticwebassets.development.json
+D:\work\didikala_org\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\work\didikala_org\obj\Debug\net6.0\scopedcss\bundle\didikala_org.styles.css
+D:\work\didikala_org\obj\Debug\net6.0\scopedcss\projectbundle\didikala_org.bundle.scp.css
+d:\work\didikala_org\obj\Debug\net6.0\didikala_org.csproj.CopyComplete
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.dll
+D:\work\didikala_org\obj\Debug\net6.0\ref\didikala_org.dll
+D:\work\didikala_org\obj\Debug\net6.0\didikala_org.pdb
+d:\work\didikala_org\obj\Debug\net6.0\didikala_org.genruntimeconfig.cache
